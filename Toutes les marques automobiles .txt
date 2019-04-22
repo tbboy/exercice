@@ -18,7 +18,6 @@ Dacia
 Daihatsu
 Dodge
 Donkervoort
-DS
 Ferrari
 Fiat
 Ford
@@ -59,7 +58,6 @@ Smart
 Ssangyong
 Subaru
 Suzuki
-Tesla
 Toyota
 Volkswagen
 Volvo
